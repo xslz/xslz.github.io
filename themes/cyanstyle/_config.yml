@@ -1,0 +1,33 @@
+# Header
+menu:
+  首页: /
+  学无止境: /learning
+  每日一笑: /amusement
+  关于浪子: /about
+  留言: /message
+
+# Content
+excerpt_link: More
+prev: Prev
+next: Next
+reply: Reply
+share: Share
+fancybox: true
+
+# Sidebar
+widgets:
+- search
+- music
+- category
+- recent_posts
+- tag
+- tagcloud
+
+# Miscellaneous
+google_analytics:
+duoshuo_shortname: 
+rss: 
+google_site_verification: 
+baidu_site_verification: 
+favicon: 
+music: 
